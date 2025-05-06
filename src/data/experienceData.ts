@@ -11,12 +11,11 @@ export const jobs: Job[] = [
     company: "Gamelab Indonesia",
     dates: "07/2022 - 9/2022",
     description: [
-      "Developed interactive Power BI dashboards to analyze business performance and customer trends.",
-      "Automated ETL processes using Python and SQL to improve data processing efficiency by 40%.",
-      "Collaborated with stakeholders to identify key performance metrics and optimize reporting strategies.",
-      "Designed predictive models to forecast revenue and customer churn, providing actionable insights.",
-      "Managed data extraction from multiple sources, including APIs, databases, and cloud storage.",
-      "Presented analytical findings to executive teams, leading to data-driven decision-making."
+      "Menjalani 3 bulan pengalaman kerja di Gamelab Indonesia di divisi Game Designer.",
+      "Mengembangkan sebuah game berbasis web menggunakan Framework Phaser JS.",
+      "Dalam kurun waktu tersebut, saya mampu mempelajari dan menguasai penggunaan modul Phaser JS secara efektif..",
+      "Berkontribusi dalam proses desain, logika permainan, dan integrasi aset..",
+      "Bekerja secara kolaboratif dengan tim mentor dan peserta lainnya dalam lingkungan kerja berbasis proyek."
     ]
   },
 ]
